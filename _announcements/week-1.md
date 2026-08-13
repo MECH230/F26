@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 1 Debrief
 week: 0
 date: 2026-01-16
@@ -29,4 +29,4 @@ Wishing everyone a good weekend!
 
 Best,
 
-Theresa
+Theresa -->
