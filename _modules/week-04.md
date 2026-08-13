@@ -1,0 +1,46 @@
+---
+title: Week 04
+contents:
+  - date: 2026-02-03
+    items:
+      - type: lecture
+        topics:
+          - Serret-Frenet basis, cont.
+
+  - date: 2026-02-03
+    items:
+      - type: exercise
+        topics:
+          - tbd
+      - type: problem_set
+        title: Set 08 - Relative motion & Corotational Bases
+        description: Relative motion between translating rigid bodies
+        link: "https://drive.google.com/file/d/1hwEG-R41jOvvTRq6h_WUQV8jpUsSx_MM/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1QQgxl9akanrvbiTawejY5GBnRvIU_roY/view?usp=sharing"
+      - type: problem_set
+        title: Extra problems
+        link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
+
+  - date: 2026-02-05
+    items:
+      - type: lecture
+        topics:
+          - Constrained motion
+          - Spring force
+      - type: problem_set
+        title: Set 06 - Constrained Motion
+        description: Constrained Motion
+        link: "https://drive.google.com/file/d/1-QKKKfUyWn7hXj6hJiVO0Dr5HmtkHfCq/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/17TN8jIvKAnF6jTBRieOHPj_Z5CzSGIDW/view?usp=sharing"
+      - type: problem_set
+        title: Set 09 - Linear Springs
+        link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1idOOkHZUpZvmYzPySBzcsQRegyvanBLt/view?usp=sharing"
+      - type: lecture_video
+        title: Explaining spring force
+        link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
+      - type: lecture_video
+        title: Spring force examples
+        link: "https://www.youtube.com/watch?v=YiOZregJx9w"
+---      
