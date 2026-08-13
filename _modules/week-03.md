@@ -1,19 +1,19 @@
 ---
 title: Week 03
 contents:
-  - date: 2026-01-27
+  - date: 2026-09-15
     items:
       - type: lecture
         topics:
           - Cylindrical polar coordinates, cont.
 
-  - date: 2026-01-27
+  - date: 2026-09-15
     items:
       - type: exercise
         topics:
           - Relative motion between translating rigid bodies
 
-  - date: 2026-01-29
+  - date: 2026-09-17
     items:
       - type: lecture
         topics:

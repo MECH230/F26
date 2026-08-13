@@ -1,7 +1,7 @@
 ---
 title: Week 11
 contents:
-  - date: 2026-03-24
+  - date: 2026-11-10
     items:
       - type: lecture
         topics:
@@ -17,13 +17,13 @@ contents:
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
 
   
-  - date: 2026-03-24
+  - date: 2026-11-10
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2026-03-26
+  - date: 2026-11-12
     items:
       - type: lecture
         topics:

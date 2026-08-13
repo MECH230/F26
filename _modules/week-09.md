@@ -1,31 +1,33 @@
 ---
 title: Week 09
 contents:
-  - date: 2026-03-10
+  - date: 2026-10-27
     items:
       - type: lecture
         topics:
         - Kinematics of Rigid Bodies
         - Velocity and Acceleration Analysis of Two Material Points on a Rigid Body
+        - Instantaneous Center of Rotation 
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1tVQYaDXXNVWzWL8PHN44ztnQba7DaCS6/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1VmyPDf8ncwtr3vFJxProfjFfrSVbFMNe/view?usp=sharing"
-
-  - date: 2025-03-10
-    items:
-      - type: exercise
-
-  - date: 2025-03-12
-    items:
-      - type: lecture
-        topics:
-        - Instantaneous Center of Rotation 
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1mFygC4jv4abp_9Xm228kkIX7j30wMofh/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1e9K6JJH8ltER1EKCpktT69aySSUNACm2/view?usp=sharing"
+
+  - date: 2025-10-27
+    items:
+      - type: exercise
+
+  - date: 2025-10-29
+    items:
+      - type: lecture
+        topics:
+        - No Class - Fall Break
+      
 
 ---

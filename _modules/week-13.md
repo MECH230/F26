@@ -1,7 +1,7 @@
 ---
 title: Week 13
 contents:
-  - date: 2025-04-07
+  - date: 2025-11-24
     items:
       - type: lecture
         topics:
@@ -22,13 +22,13 @@ contents:
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1UMFwZyc7cdE6GUVjGfrbkYWeHB6t2tUo/view?usp=sharing"
 
-  - date: 2025-04-07
+  - date: 2025-11-24
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-04-09
+  - date: 2025-11-26
     items:
       - type: lecture
         topics:

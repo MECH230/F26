@@ -1,7 +1,7 @@
 ---
 title: Week 12
 contents:
-  - date: 2026-03-31
+  - date: 2026-11-17
     items:
       - type: lecture
         topics:
@@ -12,13 +12,13 @@ contents:
         link: "https://drive.google.com/file/d/10OQTCzNy8afWTOxPlnSZsEC2p7ICHGr1/view?usp=drivesdk"
         # solution_link: "https://drive.google.com/file/d/1z6pggrTpit09bFFZIWts5xhDqnpYyOmZ/view?usp=sharing"
 
-  - date: 2025-03-31
+  - date: 2025-11-17
     items:
       - type: exercise
         topics:
         - TBD
 
-  - date: 2026-04-02
+  - date: 2026-11-19
     items:
       - type: lecture
         topics:

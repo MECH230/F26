@@ -1,7 +1,7 @@
 ---
 title: Week 01
 contents:
-  - date: 2026-01-13
+  - date: 2026-09-01
     items:
       - type: lecture
         topics:
@@ -19,13 +19,13 @@ contents:
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/19__02ODmYql3yTT3LNJ5EcWTUBeurSev/view?usp=sharing"
 
-  - date: 2026-01-13
+  - date: 2026-09-01
     items:
       - type: exercise
         topics:
           - Problems from Set 01 - Vector Calculus
 
-  - date: 2026-01-15
+  - date: 2026-09-03
     items:
       - type: lecture
         topics:

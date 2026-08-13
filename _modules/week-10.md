@@ -1,19 +1,19 @@
 ---
 title: Week 10
 contents:
-  - date: 2026-03-17
+  - date: 2026-11-03
     items:
       - type: lecture
         topics:
         - Relative motion of particles with respect to a rigid body
       
-  - date: 2026-03-17
+  - date: 2026-11-03
     items:
       - type: exercise
         topics:
         - TBD
 
-  - date: 2026-03-19
+  - date: 2026-11-05
     items:
       - type: lecture
         topics:

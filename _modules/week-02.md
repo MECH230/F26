@@ -1,7 +1,7 @@
 ---
 title: Week 02
 contents:
-  - date: 2026-01-20
+  - date: 2026-09-08
     items:
       - type: lecture
         topics:
@@ -14,13 +14,13 @@ contents:
         link: "https://drive.google.com/file/d/1hzLar_sEoBvpHJAOsyIHDikUVa69_Wj5/view?usp=share_link"
         # solution_link: "https://drive.google.com/file/d/1h9Qvm8xrChDn0nc_mA3YmJFQQkqip3bK/view?usp=sharing"
 
-  - date: 2026-01-20
+  - date: 2026-09-08
     items:
       - type: exercise
         topics:
           - Set04 Problems
 
-  - date: 2026-01-22
+  - date: 2026-08-10
     items:
       - type: lecture
         topics:

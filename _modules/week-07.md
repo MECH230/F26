@@ -1,7 +1,7 @@
 ---
 title: Week 07
 contents:
-  - date: 2025-02-24
+  - date: 2025-10-13
     items:
       - type: lecture
         topics:
@@ -13,18 +13,17 @@ contents:
         link: "https://drive.google.com/file/d/1iz7B5_rlTtNSmovcdNfZHm6KPo1URmEL/view?usp=share_link"
         # solution_link: "https://drive.google.com/file/d/1JeGvDHKg--mpOI5O3uyBh-8qh8twpeQF/view?usp=sharing"
 
-  - date: 2025-02-24
+  - date: 2025-10-13
     items:
       - type: exercise
         topics:
           - Examples
-          - Quiz
       - type: problem_set
         title: Extra problem
         description: Extra problem
         link: "https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf"
 
-  - date: 2025-02-26
+  - date: 2025-10-15
     items:
       - type: lecture
         topics:

@@ -1,13 +1,13 @@
 ---
 title: Week 04
 contents:
-  - date: 2026-02-03
+  - date: 2026-09-22
     items:
       - type: lecture
         topics:
           - Serret-Frenet basis, cont.
 
-  - date: 2026-02-03
+  - date: 2026-09-22
     items:
       - type: exercise
         topics:
@@ -22,7 +22,7 @@ contents:
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
 
-  - date: 2026-02-05
+  - date: 2026-09-24
     items:
       - type: lecture
         topics:
