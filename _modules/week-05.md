@@ -6,13 +6,10 @@ contents:
       - type: lecture
         topics:
           - Friction
-      - type: lecture_video
-        title: Explaining the friction force
-        link: "https://www.youtube.com/watch?v=_fvCFtpL3c8"
       - type: problem_set
         title: Set 10 - Friction
         link: "https://drive.google.com/file/d/1nKPBxZllszzjLq9zS4fBAja8wvQ8A845/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1G7XGZXx6UJhoQ5DoprRjWqgPtN6qkkpd/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1G7XGZXx6UJhoQ5DoprRjWqgPtN6qkkpd/view?usp=sharing"
 
   - date: 2026-02-10
     items:

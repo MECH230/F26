@@ -5,17 +5,17 @@ contents:
     items:
       - type: lecture
         topics:
-        - Review
+        - Lagrangian Mechanics
 
   - date: 2026-04-14
     items:
       - type: exercise
         topics:
-          - TBD
+          - Lagrangian Mechanics
 
   - date: 2026-04-16
     items:
       - type: lecture
         topics:
-          - Review
+          - Lagrangian Mechanics
 ---
