@@ -17,20 +17,24 @@ description: >-
 ---
 
 ## Complete Syllabus
-You can find the complete syllabus [here](https://drive.google.com/file/d/1GPNKJ9yHqptAQO0rxhM3Yv_o8ANCDnAK/view?usp=sharing).
+You can find the complete syllabus [here](https://drive.google.com/file/d/19UgaBY-KHksCEYdlLDtDHSpd9R6e7EQP/view?usp=sharing).
 The main points are summarized below.
 
 ## Instructor: Theresa Honein
 - Email: th72 at aub.edu.lb
 - Office Hours: MWTR 11am-12:30pm in Bechtel 532
 
+# Meeting Times
+- Lecture: TR 9:30-10:45 in IOEC224A
+- Exercise Session: Bechtel 201
+
 ## Grading
 
 | Item | Percentage |
 | ---- | ---------- |
-| Project Competition | 5% |
 | Homework | 5% |
 | Quizzes+Attendance | 15% |
+| Project Competition | 5% |
 | Midterm I | 20% |
 | Midterm II | 20% |
 | Final | 35% |
@@ -69,9 +73,7 @@ J. L. Meriam, L. G. Kraige, and J. N. Bolton Engineering Mechanics: Dynamics, Ni
 You can use any version of this textbook as an extra reference. I will post the prompt of the questions you need to solve.
 
 ## Copyrights
-All the course material, including but not limited to homework sets, homework solutions, quizzes, exams, lecture notes, lecture
-videos, discussion notes, discussion videos, etc. are under copyright. No part can be copied transmitted (e.g. Chegg, course hero,
-etc.), reproduced or translated into another language without the written permission of Theresa Honein.
+All the course material, including but not limited to homework sets, homework solutions, quizzes, exams, lecture notes, lecture videos, discussion notes, discussion videos, etc. are under copyright. No part can be copied transmitted (e.g. AI, ChatGPT, Chegg, course hero, etc.), reproduced or translated into another language without the written permission of Theresa Honein.
 
 ## Honor Code
 Cheating will not be tolerated. If you cheat, attempt to cheat, or fail to follow any of the teaching team's instructions during a quiz or exam, you will receive a zero on the assessment. If you cheat during an exam, you will fail the course and be reported to the MSFEA's disciplinary committee. There are no exceptions to this policy.

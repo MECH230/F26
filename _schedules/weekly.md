@@ -32,7 +32,7 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 10:45 AM
-        location: IOEC 224
+        location: IOEC 224A
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
@@ -40,7 +40,7 @@ schedule:
       - name: Exercise Session
         start: 3:30 PM
         end: 4:45 PM
-        location: Bechtel 209
+        location: Bechtel 201
   - name: Wednesday
     events:
       - name: Honein Office Hours
@@ -52,7 +52,7 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 10:45 AM
-        location: IOEC 216
+        location: IOEC 224A
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
