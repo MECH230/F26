@@ -12,25 +12,15 @@ seo:
 You can access the lecture notes [here](https://drive.google.com/file/d/1680nLslJ2h0SiNSrkNvi3CjVUIHOfAnk/view?usp=sharing).
 
 # Gradescope
-All the homework is posted on and submitted through [Gradescope](https://www.gradescope.com/courses/1209374).
+All the homework is posted on and submitted through [Gradescope](https://www.gradescope.com/courses/1350939).
 
 # Exam Schedule
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | Saturday February 7 at 8:00-10:00am | Nicely 500 |
-| Exam 2 | Saturday March 14 at 4:00-6:30pm | Nicely 500 |
-| Final Exam | TBD between May 5-16 | TBD |
-
-# Sections
-
-| Num | Meeting Time | Instructor | Location | Exercise Session | Instructor | Location |
-| -- | -- | -- | -- | -- | -- | -- |
-| 1 | MWF 9:00-9:50am | Dr. Jihad Kasamani | IOEC 217 | W 3:30-4:45pm | TBD | Bechtel 209 |
-| 2 | TR  9:30-10:45am | Dr. Theresa Honein | IOEC 216 | T 2-3:15pm | TBD | Bechtel 204 |
-| 3 | MW 12:30-1:45 | Dr. Jihad Kasamani | IOEC 216 | M 3:30-4:45 | TBD | Bechtel 209 |
-| 5 | TR 2:00-3:15pm | Dr. Theresa Honein | IOEC 217 | T 3:30-4:45 | TBD | Bechtel 209 |
-| 6 | MWF 10:00-10:50am | Dr. Jihad Kasamani | IOEC 217 | W 12:00-1:15pm | TBD | Bechtel 209 |
+| Exam 1 | TBD During Classtime | TBD |
+| Exam 2 | TBD During Classtime | TBD |
+| Final Exam | TBD between Dec 9-18 | TBD |
 
 # Previous Exams
 
@@ -54,5 +44,3 @@ Many thanks to (in no particular order)
 - Ekaterina Aleksandrovna Antimirova (UC Berkeley)
 - Wafic Itani (AUB, undergraduate)
 - Dr. Joseph Bakarji
-
-

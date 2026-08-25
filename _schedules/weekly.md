@@ -29,23 +29,15 @@ schedule:
         location: Bechtel 532
   - name: Tuesday
     events:
-      - name: Lecture 2
+      - name: Lecture
         start: 9:30 AM
         end: 10:45 AM
-        location: IOEC 216
-      - name: Lecture 5
-        start: 2:00 PM
-        end: 3:15 PM
-        location: IOEC 217
+        location: IOEC 224
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
-      - name: Exercise Session 2
-        start: 2:00 PM
-        end: 3:15 PM
-        location: Bechtel 209
-      - name: Exercise Session 5
+      - name: Exercise Session
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 209
@@ -57,14 +49,10 @@ schedule:
         location: Bechtel 532
   - name: Thursday
     events:
-      - name: Lecture 2
+      - name: Lecture
         start: 9:30 AM
         end: 10:45 AM
         location: IOEC 216
-      - name: Lecture 5
-        start: 2:00 PM
-        end: 3:15 PM
-        location: IOEC 217
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
