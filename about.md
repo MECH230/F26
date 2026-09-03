@@ -26,7 +26,7 @@ The main points are summarized below.
 
 # Meeting Times
 - Lecture: TR 9:30-10:45 in IOEC224A
-- Exercise Session: Bechtel 201
+- Exercise Session: T 3:30-4:45pm in Bechtel 201
 
 ## Grading
 
