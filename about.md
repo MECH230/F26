@@ -22,7 +22,10 @@ The main points are summarized below.
 
 ## Instructor: Theresa Honein
 - Email: th72 at aub.edu.lb
-- Office Hours: MWTR 11am-12:30pm in Bechtel 532
+- Office Hours: TR 11am-12:30pm, W2-5pm in Bechtel 532
+
+## TA: Karim Braidi
+- Office Hours: Tuesdays 12:30-2pm and Thursdays 3:30-5pm in IOEC 610.
 
 # Meeting Times
 - Lecture: TR 9:30-10:45 in IOEC224A

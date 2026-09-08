@@ -18,8 +18,8 @@ All the homework is posted on and submitted through [Gradescope](https://www.gra
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | September 22, 9:30-10:15 AM | IOEC224A |
-| Exam 2 | TBD During Classtime | TBD |
+| Exam 1 | Tuesday September 22, 9:30-10:15 AM | IOEC224A |
+| Exam 2 | Tuesday October 27, 9:30-10:15 AM | IOEC224A |
 | Final Exam | TBD between Dec 9-18 | TBD |
 
 # Previous Exams

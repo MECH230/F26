@@ -23,10 +23,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Honein Office Hours
-        start: 11:00 AM
-        end: 12:30 PM
-        location: Bechtel 532
   - name: Tuesday
     events:
       - name: Lecture
@@ -37,6 +33,10 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
+      - name: Braidi Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: IOEC 610
       - name: Exercise Session
         start: 3:30 PM
         end: 4:45 PM
@@ -44,8 +44,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Honein Office Hours
-        start: 11:00 AM
-        end: 12:30 PM
+        start: 2:00 PM
+        end: 5:00 PM
         location: Bechtel 532
   - name: Thursday
     events:
@@ -57,6 +57,10 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
+      - name: Braidi Office Hours
+        start: 3:30 PM
+        end: 5:00 PM
+        location: IOEC 610
   - name: Friday
     events:
       

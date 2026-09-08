@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 1 Debrief
 week: 0
 date: 2026-01-16
@@ -21,12 +21,10 @@ Plan for next week.
 - We will introduce the balance of linear momentum for a particle.
 - We will introduce the cylindrical-polar coordinate system.
 
-After Tuesday's lecture, you should be able to complete HW1, posted on Gradescope, which is due on Monday January 26 at 6pm.
-
-PS. We have 3 more weeks to go before our first exam!
+After Tuesday's lecture, you should be able to complete HW1, posted on Gradescope, which is due on Saturday September 12 at 10pm.
 
 Wishing everyone a good weekend!
 
 Best,
 
-Theresa -->
+Theresa
