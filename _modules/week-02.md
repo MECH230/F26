@@ -12,7 +12,7 @@ contents:
         title: Set 04 - BoLM
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1hzLar_sEoBvpHJAOsyIHDikUVa69_Wj5/view?usp=share_link"
-        # solution_link: "https://drive.google.com/file/d/1h9Qvm8xrChDn0nc_mA3YmJFQQkqip3bK/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1h9Qvm8xrChDn0nc_mA3YmJFQQkqip3bK/view?usp=sharing"
 
   - date: 2026-09-08
     items:
@@ -30,5 +30,5 @@ contents:
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
         link: "https://drive.google.com/file/d/1alGJjNQTW5Y4YuJbuRWnATfEbNjHcOqo/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1yIsWTcWmkESezAB9Y0kOehnloWfJB0xo/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1yIsWTcWmkESezAB9Y0kOehnloWfJB0xo/view?usp=sharing"
 ---
