@@ -36,6 +36,6 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1idOOkHZUpZvmYzPySBzcsQRegyvanBLt/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1idOOkHZUpZvmYzPySBzcsQRegyvanBLt/view?usp=sharing"
 
 ---      
