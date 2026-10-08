@@ -24,7 +24,7 @@ contents:
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
         link: "https://drive.google.com/file/d/1i2imOT4kreN62SS7q3rNeR_94Rtv9kVL/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1b1xLddZE57QutVsDV-vdh0Cq54TzTCdR/view?usp=sharing" 
+        solution_link: "https://drive.google.com/file/d/1b1xLddZE57QutVsDV-vdh0Cq54TzTCdR/view?usp=sharing" 
 
 ---
 
