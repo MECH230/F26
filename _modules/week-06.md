@@ -13,7 +13,7 @@ contents:
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1V517nd8I-nWCTby-oDDYmkANO6AASa3T/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1V517nd8I-nWCTby-oDDYmkANO6AASa3T/view?usp=sharing"
 
   - date: 2025-10-06
     items:
@@ -31,7 +31,7 @@ contents:
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
         link: "https://drive.google.com/file/d/1bYhxkEya7Fe_XuhjY_wyudwdLz2p9TwE/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1wcNY8hNATygu3Rvxtz3GHylEGTLoX-ep/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1wcNY8hNATygu3Rvxtz3GHylEGTLoX-ep/view?usp=sharing"
 
       
 ---

@@ -27,7 +27,8 @@ contents:
     items:
       - type: lecture
         topics:
-        - No Class - Fall Break
+        - No Class 
+        - Fall Break
       
 
 ---
